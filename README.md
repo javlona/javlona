@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Noname Project**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **hello@javlon.net**
 
